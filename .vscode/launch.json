@@ -11,7 +11,7 @@
             "mode": "auto",
             "program": "${fileDirname}",
             "env": {
-                "DATABASE_URL":"postgres://root:test@localhost:5432/test?sslmode=disable"
+                "DATABASE_URL":"postgres://root:test@localhost:6666/test?sslmode=disable"
             },
         }
     ]
